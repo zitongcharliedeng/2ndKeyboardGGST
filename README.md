@@ -5,7 +5,8 @@ easy way to play fighting games with 2 keyboards by remapping one of the keyboar
 
 ## Download LuaMacros
 ## Load a lua file on LuaMacros with the following starter code: 
-``` -- assign logical name to macro keyboard
+``` 
+-- assign logical name to macro keyboard
 lmc_assign_keyboard('MACROS');
 clear();
 -- clear the console
@@ -47,7 +48,8 @@ lmc_set_handler('MACROS', function(button, direction)
   elseif (button == string.byte(' ')) then lmc_send_keys('{=}')
   else print('Not yet assigned: ' .. button)
   end
-end) ```
+end) 
+```
 
 ## Press the play button and press any button on your second keyboard you want to rebind
 ## You're good to go! Feel free to rebind but do remember lots of OSs only accept ASCII character sets, e.g. foreign characters with umlauts and japanese kanji etc will not be accepted as a rebind.
