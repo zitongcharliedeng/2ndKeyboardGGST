@@ -1,6 +1,20 @@
 # 2ndKeyboardGGST
 easy way to play fighting games with 2 keyboards by remapping one of the keyboard's keys ft. luamacros
 
+# NEVERMIND FOLLOW THIS GUIDE (emulate a controller with ur second keyboard, a lot easier...): 
+https://www.youtube.com/watch?v=RP1k0CWPE74&t=2s
+
+
+
+
+
+
+
+
+
+
+
+
 # Steps
 
 ## Download LuaMacros
